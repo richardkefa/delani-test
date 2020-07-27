@@ -1,20 +1,46 @@
 # Delani Studio
+#### This prooject is the official websiite for delani studio , Version 1.0 
+#### By **Richard kefa Mcharo**
 
-## Authors
-- [iantheninja](https://github.com/iantheninja)
+## Description 
+This is version 1.0 of Delani studio website. The wwebsite offers a short description of the services that are offered at Delani studio.
+There are samples of previous projects.
+https://richardkefa.github.io/delani-studio/
 
-## Project setup instructions
-To start using this project use the following commands:
+## User instructions 
+* Open the web page.
+* input name ane email address
+* write your message 
+* press enter to submit 
 
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
-- `atom .`
-- `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
+## How to collaborate
+* Fork repository
+* Create a pull request
+* clone repository
 
-## License info
+## Technologies Used
+The page was built using
+* Htnml
+* CSS
+* JavaScript
+* jquery
+## Support and contact details
+In case of any issue during collaboration please-
+* Email at richardkefa7@gmail.com
+## BDD
+### Feature 
+user can send message
+### Senario
+The user loads the page.
+They enter the names and email address.
+They can type there message.
+Press on enter to submit there details and message.
+Recives an alert that the message has been recieved.
+
+### License
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) [2020] [Richard kefa Mcharo]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -31,5 +57,4 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN.
